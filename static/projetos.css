@@ -1,0 +1,27 @@
+body{
+    padding: 5%;
+    background-color: #bfd4dd;
+}
+img{
+    width: 70%;
+    height: 70%;
+    border-radius: 5%;
+}
+
+.elemento{
+width: 30%;
+height: 50%;
+background-color: #6A9C89;
+text-align: center;
+border-radius: 5%;
+padding: 1%;
+transition: all 0.5s;
+}
+.elemento:hover{
+    width: 40%;
+    height: 60%;
+    background-color: rgb(170, 170, 170);
+    text-align: center;
+    border-radius: 5%;
+    padding: 1%;
+    }
